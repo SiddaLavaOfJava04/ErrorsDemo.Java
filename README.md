@@ -5,7 +5,7 @@
 /*
 * Sidney Beatty
 * File: ErrorsDemo.java
-* Author: Dr. Robertson
+* Source code by: Dr. Robertson
 * Date: January 1, 2015
 * Purpose: Demonstrates common program errors.
 */
